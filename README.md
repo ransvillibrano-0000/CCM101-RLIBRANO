@@ -1,5 +1,5 @@
 # Cloud-Computing-Course
-"Repository for course activities, notes, and projects in Cloud Computing."
+"Repository for course activities, notes, and projects in Cloud Computing/CCM 101."
 
 ## 📌 About This Repository
 This repo serves as my organized workspace for all course requirements, including:
