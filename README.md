@@ -10,7 +10,7 @@ This repo serves as my organized workspace for all course requirements, includin
 
 👤 Student Information
 - Name: Ransvil Nash N. Librano
-- Course/Section: BSIT 2nd Year
+- Course/Section: BSIT 4th Year
 - Instructor: JENKIELYN CORTEZ TORRES
 - School Year: 2026-2027
 
